@@ -28,7 +28,7 @@ The result is a system intended to reduce false auditory patterning while increa
 
 ## 📜 Historical Context: Frank’s Box
 
-The original *Frank’s Box* was developed in the early 2000s by paranormal investigator **Frank Sumption** as a tool for Instrumental Transcommunication (ITC) research. The device was designed to rapidly scan AM or FM radio frequencies, briefly sampling fragments of live broadcast audio while being passed through a sophiscated "echo box" to allow electromagnetic interference. It's this interference that Frank believed, allowed entities to communicate through his device.
+The original *Frank’s Box* was developed in the early 2000s by paranormal investigator **Frank Sumption** as a tool for Instrumental Transcommunication (ITC) research. The device was designed to rapidly scan AM or FM radio frequencies, briefly sampling fragments of live broadcast audio while being passed through a sophiscated "echo box" to allow electromagnetic interference. Frank believed that it was within this interference that entities were able to communicate through his device.
 
 ---
 
