@@ -8,8 +8,6 @@ Unlike traditional hardware-based SBS or spirit boxes, Digital Frank Box is **en
 
 ## 🖼️ Interface Preview
 
-> *Screenshot shown below reflects the current research interface and waveform monitoring system.*
-
 ![Digital Frank Box Interface](assets/dfb.png)
 
 ---
