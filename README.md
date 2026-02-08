@@ -28,51 +28,16 @@ The result is a system intended to reduce false auditory patterning while increa
 
 ## 📜 Historical Context: Frank’s Box
 
-The original *Frank’s Box* was developed in the early 2000s by paranormal investigator **Frank Sumption** as a tool for Instrumental Transcommunication (ITC) research. The device was designed to rapidly scan AM or FM radio frequencies, briefly sampling fragments of live broadcast audio.
-
-Investigators theorized that these short audio segments could be manipulated to form meaningful responses during paranormal communication sessions. This method became widely adopted in ghost hunting and EVP research and later evolved into what are commonly referred to as **SBS (Spirit Box Scanning) devices**.
-
-### Limitations of Traditional Frank’s Boxes
-
-While influential, traditional hardware-based Frank’s Boxes exhibit several known constraints:
-
-* **Linear frequency sweeping**, creating predictable cadence
-* **Local-only broadcast dependence**, limiting signal diversity
-* **Audible rhythmic gaps** between station changes
-* Susceptibility to **pattern recognition and auditory pareidolia**
-
-### Digital Frank Box: A Modern Evolution
-
-Digital Frank Box was created to preserve the *conceptual intent* of Frank Sumption’s original design while addressing its technical limitations through modern software techniques:
-
-* Replaces local hardware radios with **global WebSDR sources**
-* Uses **randomized, non-linear frequency selection**
-* Introduces controlled **noise floor modulation** to eliminate segmented silence
-* Enables repeatable, recordable sessions for analytical review
-
-This approach positions Digital Frank Box not as a replacement for historical methodology, but as a **research-focused evolution** of the original Frank’s Box concept.
+The original *Frank’s Box* was developed in the early 2000s by paranormal investigator **Frank Sumption** as a tool for Instrumental Transcommunication (ITC) research. The device was designed to rapidly scan AM or FM radio frequencies, briefly sampling fragments of live broadcast audio while being passed through a sophiscated "echo box" to allow electromagnetic interference. It's this interference that Frank believed, allowed entities to communicate through his device.
 
 ---
 
 ## ✨ Core Features
 
-### 🌍 Global WebSDR Signal Sources
-
 * Accesses **hundreds of predefined radio frequencies worldwide**
-* Not limited to local AM/FM broadcast ranges
-* Requires an active internet connection
-
-### 🔀 Randomized Frequency Sweeping
-
 * Frequencies are selected **non-linearly and randomly**
 * Avoids cadence and predictability present in linear sweep devices
-
-### 🎚️ Sweep Rate Control
-
 * Adjustable sweep timing (milliseconds)
-* Fine control for fast or slow scanning methodologies
-
-### 🎧 Noise Floor Modulation
 
 Selectable background noise profiles:
 
@@ -83,20 +48,9 @@ Selectable background noise profiles:
 
 Noise can be enabled or disabled depending on research protocol. When enabled, it removes segmented silence between frequency changes.
 
-### 🔊 Volume Control
-
-* Independent output level control
-* Suitable for headphones, speakers, or echo box routing
-
-### ⏱️ Session Management
-
 * Configurable session duration
 * Real-time session status monitoring
-
-### 🎙️ Session Recording
-
 * Record full sessions for later review
-* Supports evidence cataloging and analysis workflows
 
 ### 🔁 Echo Box Compatibility
 
@@ -113,6 +67,22 @@ Digital Frank Box is a **desktop application** available for:
 * 🐧 Linux
 
 > All platforms require an active internet connection for WebSDR access.
+
+---
+
+## 🌐 WebSDR Browser Requirement (Important)
+
+When Digital Frank Box is started, a **browser window or pop-up will automatically open and then minimize itself**. This window is **not an error** and should **not be closed**.
+
+This browser instance is the active **WebSDR connection** responsible for sweeping and streaming global radio frequencies into the application.
+
+### ⚠️ Do Not Close the Browser Window
+
+* The application **cannot function without this WebSDR session**
+* Closing the browser window will immediately stop scanning
+* Minimization is intentional and handled automatically
+
+If the browser window is closed, Digital Frank Box must be restarted to re-establish the WebSDR connection.
 
 ---
 
@@ -142,8 +112,5 @@ This software is intended for **experimental, research, and investigative use on
 No claims are made regarding the source, intelligence, or nature of any perceived audio phenomena.
 
 ---
-
-## 📄 License
-
 **Copyright © 2026 DaedNoise**
 All rights reserved.
