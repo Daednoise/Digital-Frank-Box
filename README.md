@@ -92,7 +92,7 @@ If the browser window is closed, Digital Frank Box must be restarted to re-estab
 
 * **Windows**: [windows releases](https://drive.google.com/file/d/1jEMcY_u8DtjuQg2EBqcq_nyrLElR99au/view?usp=drive_link)
 * **macOS**: [mac releases](https://drive.google.com/file/d/1p73uA03cEspYBzNubf1JW4SD0uQp7SVR/view?usp=drive_link)
-* **Linux**: [linux releases](https://github.com/yourusername/digital-frank-box/releases/linux)
+* **Linux**: [linux releases](https://drive.google.com/file/d/1C8WKYdL80UYfGNSs-iy1nYoWT55Uk1W4/view?usp=sharing)
 
 ---
 
